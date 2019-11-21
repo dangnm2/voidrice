@@ -10,7 +10,7 @@ super + e
 super + m
 	$TERMINAL -e ncmpcpp
 super + n
-	$TERMINAL -e newsboat
+	$TERMINAL -e STH_ELSE
 super + i
 	$TERMINAL -e htop
 super + y

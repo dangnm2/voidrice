@@ -41,7 +41,6 @@ This is a partial key list.
 	c			webcam
 	v	open Vimwiki
 	b	bar on/off	stick/float win (left)
-	n	newsboat	stick/float win (right)
 	m	ncmpcpp		mute audio
 	, <	previous song	restart song
 	. >	next song
